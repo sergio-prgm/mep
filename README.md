@@ -25,3 +25,4 @@ coloredLine := fmt.Sprintf("%s", redWord)
 ## Reference
 
 [publish go package](https://go.dev/doc/modules/publishing)
+published??
